@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-casc-workshop-test
+- admin-user: naveen0725-admin
+- manager-user: naveen0725
